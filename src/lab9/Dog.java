@@ -1,4 +1,4 @@
-package lab8;
+package lab9;
 
 public class Dog implements Nameable {
     private String Name;

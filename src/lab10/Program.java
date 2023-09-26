@@ -1,4 +1,4 @@
-package lab9;
+package lab10;
 
 public class Program {
     public static int[] k = new int[] {1, 2, 2, 3, 3, 3, 4, 4, 4, 4};

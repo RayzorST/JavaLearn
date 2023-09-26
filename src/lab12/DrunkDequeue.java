@@ -1,4 +1,4 @@
-package lab11;
+package lab12;
 
 public class DrunkDequeue {
 }

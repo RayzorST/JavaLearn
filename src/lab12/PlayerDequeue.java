@@ -1,11 +1,11 @@
-package lab11;
+package lab12;
 
 import java.util.Stack;
 
-public class PlayerQueue {
+public class PlayerDequeue {
     private Stack<Integer> Cards = new Stack<>();
 
-    public PlayerQueue(String cards){
+    public PlayerDequeue(String cards){
         for(int i = 0; i < cards.length(); i++){
             Cards.add(cards.charAt(i) - 48);
         }
